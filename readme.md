@@ -18,6 +18,10 @@ The Data Training phase is where the magic happens. Deep learning techniques are
 
 In the Testing phase, the performance of the developed system is evaluated rigorously. Various sign language gestures from the dataset, as well as real-time gestures, are input into the system. The system's ability to accurately recognize and convert these gestures into text and audio in multiple languages is assessed. Testing also involves fine-tuning the models to enhance accuracy and usability.
 
+![image](https://github.com/user-attachments/assets/2c6041ee-63f1-4ada-98f5-627c4c44e334)
+
+![image](https://github.com/user-attachments/assets/a1f2ea95-f4ee-49c9-b60d-f2fa725a51a8)
+
 ## How to Use
 
 To use this system, follow these steps:
