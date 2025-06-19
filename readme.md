@@ -1,4 +1,6 @@
 # Sign Language to Multi-Language Audio and Text Conversion
+## Patent
+![image](https://github.com/user-attachments/assets/f659adc1-6d34-4f76-b8a1-c584b36070ec)
 
 ## Project Overview
 
